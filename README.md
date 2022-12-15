@@ -1,1 +1,1 @@
-https://prod-apsoutheast-a.online.tableau.com/t/tugasakhirrizky/views/VisualisasiSebaranPosProvinsiJawaBarat/Story1?:origin=card_share_link&:embed=n 
+<script type='module' src='https://prod-apsoutheast-a.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://prod-apsoutheast-a.online.tableau.com/t/tugasakhirrizky/views/VisualisasiSebaranPosProvinsiJawaBarat/Story1' width='1643' height='786' hide-tabs toolbar='bottom' ></tableau-viz>
